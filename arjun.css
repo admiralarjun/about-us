@@ -1,0 +1,42 @@
+.profile {
+    width: 500px;
+    margin: auto;
+    background-color: antiquewhite;
+    margin-top: 20%;
+}
+
+hr {
+    width: 95%;
+    border-radius: 50%;
+    margin: auto;
+    border: 2px solid #333;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.links {
+    font-size: 30px;
+}
+
+.links a {
+    color: black;
+}
+
+.profile-pic {
+    margin-top: 10px;
+    width: 40%;
+    border-radius: 50%;
+    border: 10px solid rgb(0, 140, 255);
+}
+
+.profile-pic:hover {
+    transform: scale(1.05);
+    border: 1px solid rgb(0, 140, 255);
+}
+
+.progress {
+    width: 90%;
+    margin: auto;
+    background-color: #333;
+    font-weight: bolder;
+}
